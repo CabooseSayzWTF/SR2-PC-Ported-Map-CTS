@@ -12,42 +12,42 @@
 #Navpoints
 // -------
 
-$Navpoint:	"sr2_mp_gb_secret1_$r000"
+$Navpoint:	"sr2_mp_gb_secret_$r000"
 $Type:		"ground"
 $Pos:			<3439.244 -4.6 -1510.7>
 $Orient:		[-2.061546]
 
-$Navpoint:	"sr2_mp_gb_secret1_$r001"
+$Navpoint:	"sr2_mp_gb_secret_$r001"
 $Type:		"ground"
 $Pos:			<3439.244 -4.6 -1510.7>
 $Orient:		[-1.607308]
 
-$Navpoint:	"sr2_mp_gb_secret1_$r002"
+$Navpoint:	"sr2_mp_gb_secret_$r002"
 $Type:		"ground"
 $Pos:			<3439.244 -4.6 -1510.7>
 $Orient:		[-1.607308]
 
-$Navpoint:	"sr2_mp_gb_secret1_$r003"
+$Navpoint:	"sr2_mp_gb_secret_$r003"
 $Type:		"ground"
 $Pos:			<3439.244 -4.6 -1510.7>
 $Orient:		[-1.607308]
 
-$Navpoint:	"sr2_mp_gb_secret1_$r004"
+$Navpoint:	"sr2_mp_gb_secret_$r004"
 $Type:		"ground"
 $Pos:			<3439.244 -4.6 -1510.7>
 $Orient:		[-1.607308]
 
-$Navpoint:	"sr2_mp_gb_secret1_$r005"
+$Navpoint:	"sr2_mp_gb_secret_$r005"
 $Type:		"ground"
 $Pos:			<3439.244 -4.6 -1510.7>
 $Orient:		[-1.607308]
 
-$Navpoint:	"sr2_mp_gb_secret1_$r006"
+$Navpoint:	"sr2_mp_gb_secret_$r006"
 $Type:		"ground"
 $Pos:			<3439.244 -4.6 -1510.7>
 $Orient:		[-1.607308]
 
-$Navpoint:	"sr2_mp_gb_secret1_$r007"
+$Navpoint:	"sr2_mp_gb_secret_$r007"
 $Type:		"ground"
 $Pos:			<3439.244 -4.6 -1510.7>
 $Orient:		[-1.607308]
@@ -72,36 +72,36 @@ $Orient:		[-1.607308]
 #Respawns
 // -------
 
-$Respawn:		"sr2_mp_gb_secret1_$r000"
-$Start nav:		"sr2_mp_gb_secret1_$r000"
+$Respawn:		"sr2_mp_gb_secret_$r000"
+$Start nav:		"sr2_mp_gb_secret_$r000"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"sr2_mp_gb_secret1_$r001"
-$Start nav:		"sr2_mp_gb_secret1_$r001"
+$Respawn:		"sr2_mp_gb_secret_$r001"
+$Start nav:		"sr2_mp_gb_secret_$r001"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"sr2_mp_gb_secret1_$r002"
-$Start nav:		"sr2_mp_gb_secret1_$r002"
+$Respawn:		"sr2_mp_gb_secret_$r002"
+$Start nav:		"sr2_mp_gb_secret_$r002"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"sr2_mp_gb_secret1_$r003"
-$Start nav:		"sr2_mp_gb_secret1_$r003"
+$Respawn:		"sr2_mp_gb_secret_$r003"
+$Start nav:		"sr2_mp_gb_secret_$r003"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"sr2_mp_gb_secret1_$r004"
-$Start nav:		"sr2_mp_gb_secret1_$r004"
+$Respawn:		"sr2_mp_gb_secret_$r004"
+$Start nav:		"sr2_mp_gb_secret_$r004"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"sr2_mp_gb_secret1_$r005"
-$Start nav:		"sr2_mp_gb_secret1_$r005"
+$Respawn:		"sr2_mp_gb_secret_$r005"
+$Start nav:		"sr2_mp_gb_secret_$r005"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"sr2_mp_gb_secret1_$r006"
-$Start nav:		"sr2_mp_gb_secret1_$r006"
+$Respawn:		"sr2_mp_gb_secret_$r006"
+$Start nav:		"sr2_mp_gb_secret_$r006"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
-$Respawn:		"sr2_mp_gb_secret1_$r007"
-$Start nav:		"sr2_mp_gb_secret1_$r007"
+$Respawn:		"sr2_mp_gb_secret_$r007"
+$Start nav:		"sr2_mp_gb_secret_$r007"
 $Box size:		-2.000000 0.000000 -2.000000 2.000000 2.000000 2.000000
 
 
